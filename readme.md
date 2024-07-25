@@ -50,11 +50,11 @@ To run this script, ensure you have the following installed:
 
 The script provides several customizable parameters:
  
-• **Drive Letter:** Prompted input for the drive letter where the Busy Tag device is located (e.g., `D`).
+â€¢ **Drive Letter:** Prompted input for the drive letter where the Busy Tag device is located (e.g., `D`).
 
-• **Text Content:** Displays location and temperature data.
+â€¢ **Text Content:** Displays location and temperature data.
 
-• **Font Size and Colors:** Predefined but can be modified in the script.
+â€¢ **Font Size and Colors:** Predefined but can be modified in the script.
 
 ## Usage
 1. **Execute the script:**
@@ -80,7 +80,7 @@ After running the script, you should see output similar to this in your terminal
 ```
 Please enter the drive letter assigned to Busy Tag device (e.g., D): D
 City: YourCity
-Coordinates: 12.3456°N 78.9101°E
+Coordinates: 12.3456Â°N 78.9101Â°E
 Current temperature: 21.5
 Current relative humidity: 60.0
 Waiting for 10 minutes before next update...
@@ -91,12 +91,12 @@ And an image (air_temperature.png) will be saved in the specified directory (e.g
 Location
 YourCity
 Temperature
-21.5°C
+21.5Â°C
 ```
 
 Sample:
 
-![Image](/Air_temperature_sample.png){width=240 height=280}
+<img src="/Air_temperature_sample.png" alt="alt Sample Image" width="480" height="560"/>
 
 ### Troubleshooting ###
 
